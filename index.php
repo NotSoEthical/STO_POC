@@ -70,7 +70,7 @@
 
    <tr style="BACKGROUND-COLOR: #fff; BORDER-BOTTOM: #eee 2px solid; PADDING-BOTTOM: 5px; PADDING-TOP: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px">
 
-       <td style="COLOR: #464547; PADDING-BOTTOM: 5px; PADDING-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px">This domain was pointed to <b>trw-prd-frontend.westeurope.cloudapp.azure.com</b>domain name<br></td></tr><tr style="BACKGROUND-COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-BOTTOM: #eee 2px solid"><td style="COLOR: #464547; PADDING-BOTTOM: 0px; PADDING-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><p><b><u>Important</u>: This issue should be address and fixed as soon as possible<br></b></p>
+       <td style="COLOR: #464547; PADDING-BOTTOM: 5px; PADDING-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px">This domain was pointed to another domain name<br></td></tr><tr style="BACKGROUND-COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-BOTTOM: #eee 2px solid"><td style="COLOR: #464547; PADDING-BOTTOM: 0px; PADDING-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><p><b><u>Important</u>: This issue should be address and fixed as soon as possible<br></b></p>
 
        </td>
 
